@@ -1,3 +1,10 @@
-# Your code goes here.
-# You can delete these comments, but do not change the name of this file
-# Write your code to expect a terminal of 80 characters wide and 24 rows high
+from PIL import Image, ImageColor, ImageOps
+
+# First Step - Insert Picture or will be done automatically
+a = input("Insert Photo, photo path You wish to Edit \n Insert/Paste Here: ")
+try:
+    request.urlretrieve(
+    a, "rework.png")
+    image = Image.open("rework.png")
+    print("Picture was insert")
+    image_uploaded = True
