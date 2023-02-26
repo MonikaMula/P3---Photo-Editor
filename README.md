@@ -1,11 +1,11 @@
-## Welcome to Photo Editor,      
+# Welcome to Photo Editor 📷     
 
 I have Created small Photo Editor with pillow libary functions.
 This allows You insert Your own or use one that it's an example by pressing enter.
 I wish I had more time really as there is a lot to improve.
 Code runs in 'run.py'
 
-# How this function works
+## How this function works
 * Step one You need to upload an image or use one that it's in the code under 'url test'
  by clicking 'Enter' picture it's uploded.
 
@@ -23,6 +23,6 @@ Code runs in 'run.py'
 
 * Fourth Function it is ' Saving Image '
 
-My project needs a lot of improvements I am aware of it.
+  My project needs a lot of improvements I am aware of it.
 
-Thank You / Monika /
+  Thank You / Monika /
