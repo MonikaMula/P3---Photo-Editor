@@ -1,30 +1,28 @@
 ## Welcome to Photo Editor,      
 
-I have Created small Photo Editor with pillow
-                                                                                                                                                                                                   
+I have Created small Photo Editor with pillow libary functions.
+This allows You insert Your own or use one that it's an example by pressing enter.
+I wish I had more time really as there is a lot to improve.
+Code runs in 'run.py'
 
-## Reminders
+# How this function works
+* Step one You need to upload an image or use one that it's in the code under 'url test'
+ by clicking 'Enter' picture it's uploded.
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
+* First function it's rotation.
+  If You do not wish to do so press 'n' for rotation press 'y'
 
-## Creating the Heroku app
+* Second Function it's changing an image to a grey.
+  As in a first function if You wish to do so press 'y' for no 'n'
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+* Third Function it's an image cropping.
+  'y' for Yes 'n' for No
+  Cropping starts from left - top - right - bottom
+  Please check photo size that You wish to crop,
+  that should display for You before You apply cropping.
 
-1. `heroku/python`
-2. `heroku/nodejs`
+* Fourth Function it is ' Saving Image '
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+My project needs a lot of improvements I am aware of it.
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
-
-Connect your GitHub repository and deploy as normal.
-
-## Constraints
-
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
------
-Happy coding!
+Thank You / Monika /
