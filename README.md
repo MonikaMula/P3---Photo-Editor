@@ -1,9 +1,7 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Welcome to Photo Editor,      
 
-Welcome to Photo Editor,
-
-I have Created small photo editor
-
+I have Created small Photo Editor with pillow
+                                                                                                                                                                                                   
 
 ## Reminders
 
