@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "p3-photo-editor",
+  "private_key_id": "636bc6e0f11eba293a652687fa8c27d6356aaccf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcWuRQrB0TYQ+/\naF10o6jdh6IpeJZF4SgzNHGUsmoFUfSMKk7Zq2VT2kU8KTlQwP/ojFSWlCPg8eyf\nj3eZ3Po2TwNCoKQjO/qUGUHLUEXaaI59jiQgasJC8mqmyk8tzni3rzjLAOFlufBs\ngB7bexHyVGz6rWvEuv3maDCWT/nFEsTSBqNVtX6R3uHJ4UOAwQW0AobLJZQEsy6c\nduJlPjOSjSA30sIN9A2UAluz/FXeannJ2STsbSe1H9fa19M+/BQMlUt2pjSieo2n\nu8fQhV5a7nls/+ipwUpR2eoLrMGa+szBNNPeWVvPKiwko2SaqlSQFFsR4BDftKRa\nNVhCAkElAgMBAAECggEAAcg7b/v2POFPV6Qt5IV1CElifMyGEffWCHdhkAtUkAj2\nG57j1TFR71m+jkf+AkCg6hqnYCwCGK9JPixZdaSCKZpO9DR2inxFh+idyl543Vtx\nvFahbMkqu66drpcBvgjrcVSK9i1lZE5xQhtXvrKxaqyxrU3Ku6xR9o1beGsi8q8W\nhaQftHQ21WwV9NgND33jJZXhJMgG7szQAE39z4LmHFTwKMmoSBkSJxQaWvXXGjE7\nwaF+Hlu++ZykSt7mnEWdafVl+QUPO4a6bEBPBK/39CYYNtwfDTXnvL7qj4rNGAxW\ntu+bXJA5+byGx4aExHsyX2jSZxFC4gZFfv0zNbvKYQKBgQDIwjimUBZVjUH1KwXR\nLGQouO9PrSn3hr05+V6Q/A//4+WGNuKMlbByA+qO6hM3TSUKJ//cBRZ1s8EW8hC9\nSnwR3stpEu0Brw9HSmfmLtyAVjH1dsXMGRyBB2RHNB3V50pJlKgBtUaleRNhcPVo\nd9W+JROKJzHEwwmtAhKRCC8ZWQKBgQDHYM3eqn16BVN0srtD4OOreCcvWeXGtDH/\nOIQ69nliNgGQgHyxnNAHzmClsuHmsg5HPVnifHYcHvlYjTWdQ5ZkVqJ/NGtRl+40\njQ44VkTrr7qtcdQEHom7BFLq/thiVET8DfByJRoRKmTAZyeLYu2nsCmpiy58Vdi1\nzGqti7sgrQKBgQC5jjqKDe/2tw9FqbRAt8UDlpsqi6UEcfcoRILRgwjOvTeCK+yN\ngDWLzG7aFSQZsyYPExV7qQAvXiuUJ7ytGNFAOyrLPYDuU33NqMoLiTipLgITHOqJ\nUJR19f0LivIgqRySkeIPYhugCh6Nq7hIDKr0ipRa1ws7EAI7dHTwtB3EUQKBgFa7\n2BNLm7ZfZsTXk/udc61+YZ2JwBnG/hEHJw73diqxT9Dq9FPX4e/jacvrm7ZeMzPu\njpGmj0MAfnx1QaOeaWhQ//PSe/VM4MVfr5X2gZj+I3mckR0Ro90FroSoRL3R5wi3\nj6g4V7Sr+pRwy5UpfjV6v0UQVTKlrda4jJfet5MpAoGBAKQDg/u+HP488X8EgnXd\nX++Tnk4+R3WxZJ2BhpZzhs9Xhjfyfs+pgjfeDw3/GG+f8eyV7IcTwItqItzmQGsI\nQy5jyRMixWOtNh0PmF47IVsZ2O+darGIiMKlkA5BhHBZr1w/Ks52x3knGcdwBF6S\nx0DH4hpvPuUkKxcoT826yTpP\n-----END PRIVATE KEY-----\n",
+  "client_email": "p3-photo-project@p3-photo-editor.iam.gserviceaccount.com",
+  "client_id": "115925397515260861904",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/p3-photo-project%40p3-photo-editor.iam.gserviceaccount.com"
+}
