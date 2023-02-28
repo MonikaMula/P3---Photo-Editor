@@ -1,5 +1,17 @@
+import gspread
+from google.oauth2.service_account import Credentials
 from PIL import Image, ImageColor, ImageOps
 from urllib import request
+
+SCOPE = [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive.file",
+    "https://www.googleapis.com/auth/drive"
+    ]
+
+CREDS = Credentials.from_service_account_file('creds.json')
+SCOPED_CREDS = CREDS.with_scopes(SCOPE)
+GSPREAD_CLIENT = gspread.authorize(SCOPED_CREDS)
 
 # First Step - Insert Picture or will be done automatically
 url = input("Insert Photo, photo path You wish to Edit \n Insert/Paste Here: ")
