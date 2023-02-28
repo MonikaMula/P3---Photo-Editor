@@ -4,7 +4,7 @@ from PIL import Image, ImageColor, ImageOps
 from urllib import request
 
 SCOPE = [
-    "https://www.googleapis.com/auth/spreadsheets",
+    #"https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive.file",
     "https://www.googleapis.com/auth/drive"
     ]
