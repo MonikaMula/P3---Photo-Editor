@@ -4,7 +4,7 @@ from PIL import Image, ImageColor, ImageOps
 from urllib import request
 
 SCOPE = [
-    #"https://www.googleapis.com/auth/spreadsheets",
+   #"https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive.file",
     "https://www.googleapis.com/auth/drive"
     ]
@@ -33,24 +33,24 @@ except:
 # Image Rotation
 rotation = input('Would You Like Rotate An Image \n Yes/No: ')
 if rotation.lower().startswith("y"):
-  rotation_number = input(
+   rotation_number = input(
       'What degree You wish picture to rotate? \n Place degree number: ')
-  try:
-      image_rotate = image.rotate(int(rotation_number))
-      image_rotate.show()
-      image = image_rotate
-  except:
+try:
+    image_rotate = image.rotate(int(rotation_number))
+    image_rotate.show()
+    image = image_rotate
+except:
       print("Go forward if You do not wish rotate an Image")
 
 # Grey Color
 grayscale = input("Would You like change picture to grey: \n Yes/No: ")
 if grayscale.lower().startswith("y"):
-  image = ImageOps.grayscale(image)
-  image.show()
+   image = ImageOps.grayscale(image)
+   image.show()
 
 # Image_Cropping 
 cropping = input('Crop image? \n Yes/No: ')
-if cropping.lower().startswith("y"):
+if  cropping.lower().startswith("y"):
     print(f"image size is: {image.size} ")
     left_x = input("left: ")
     top_y = input("top: ")
@@ -72,6 +72,6 @@ except:
 # Saving Image
 saving_mode = input("Would You like to save Your picture? \n Yes/No: ")
 if saving_mode.lower().startswith("y"):
-    save_path = input("Insert path where You wish to save picture: \n ")
-    if save_path:
-          image.save(f"{save_path}")    
+   save_path = input("Insert path where You wish to save picture: \n ")
+if save_path:
+   image.save(f"{save_path}")    
