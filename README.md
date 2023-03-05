@@ -23,6 +23,6 @@ Code runs in 'run.py'
 
 * Fourth Function it is ' Saving Image '
 
-  My project needs a lot of improvements I am aware of it.
+  My project still needs improvements.
 
   Thank You / Monika /
